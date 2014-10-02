@@ -1,0 +1,8 @@
+1. ON/OFF button.
+2. Input fuse.
+3. Move RTC board to mainboard.
+4. Use of standart 12V power jack.
+5. Expand mainboard.
+6. Reduce board height:
+	- lay transistor on board;
+	- change connectors (for ISP, etc.).
